@@ -1,0 +1,32 @@
+sudo apt install -y \
+    libatk-bridge2.0-0 \
+    libatk1.0-0 \
+    libcups2 \
+    libxcomposite1 \
+    libxdamage1 \
+    libxrandr2 \
+    libgbm1 \
+    libasound2 \
+    libpangocairo-1.0-0 \
+    libpango-1.0-0 \
+    libatk-bridge2.0-0 \
+    libgtk-3-0 \
+    libnss3 \
+    libnspr4 \
+    libxss1 \
+    libavcodec58 \
+    libavformat58 \
+    libavutil56 \
+    libvpx6 \
+    libwoff1 \
+    libopus0 \
+    libwebp6 \
+    libwebpdemux2 \
+    libenchant1c2a \
+    libgstreamer-gl1.0-0 \
+    libgstreamer-plugins-base1.0-0 \
+    gstreamer1.0-libav \
+    gstreamer1.0-plugins-base \
+    gstreamer1.0-plugins-good \
+    libgstcodecparsers-1.0-0 \
+    libavif13
